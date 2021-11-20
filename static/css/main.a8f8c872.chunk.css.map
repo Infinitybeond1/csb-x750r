@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,qBAAsB,CACtB,eACF","file":"main.a8f8c872.chunk.css","sourcesContent":[".App {\n  font-family: monospace;\n  text-align: left;\n}\n"]}

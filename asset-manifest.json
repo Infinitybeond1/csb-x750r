@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://infinitybeond1.github.io/csb-x750r/static/css/main.a8f8c872.chunk.css",
+    "main.js": "https://infinitybeond1.github.io/csb-x750r/static/js/main.2ca94964.chunk.js",
+    "main.js.map": "https://infinitybeond1.github.io/csb-x750r/static/js/main.2ca94964.chunk.js.map",
+    "runtime-main.js": "https://infinitybeond1.github.io/csb-x750r/static/js/runtime-main.0be5183c.js",
+    "runtime-main.js.map": "https://infinitybeond1.github.io/csb-x750r/static/js/runtime-main.0be5183c.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://infinitybeond1.github.io/csb-x750r/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://infinitybeond1.github.io/csb-x750r/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://infinitybeond1.github.io/csb-x750r/index.html",
+    "static/css/main.a8f8c872.chunk.css.map": "https://infinitybeond1.github.io/csb-x750r/static/css/main.a8f8c872.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://infinitybeond1.github.io/csb-x750r/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be5183c.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.a8f8c872.chunk.css",
+    "static/js/main.2ca94964.chunk.js"
+  ]
+}
